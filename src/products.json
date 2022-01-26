@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Music Earings",
+        "image": "dummy one",
+        "category": "Earings",
+        "price": 200,
+        "availablity": "Out of Stock"
+    },
+    {
+        "name": "African Earings",
+        "image": "dummy one",
+        "category": "Earings",
+        "price": 250,
+        "availablity": "Available"
+    },
+    {
+        "name": "Love Necklace",
+        "image": "dummy one",
+        "category": "Necklace",
+        "price": 650,
+        "availablity": "Available"
+    },
+    {
+        "name": "Love Bracelet",
+        "image": "dummy one",
+        "category": "Bracelet",
+        "price": 350,
+        "availablity": "Available"
+    }
+]
